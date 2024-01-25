@@ -1,0 +1,40 @@
+h4{
+    color: red;
+    text-transform: uppercase;
+}
+
+/* .cursive, p{
+    font-family: cursive;
+    color: orange;
+}
+
+.uppercase{
+    color: red;
+    text-transform: uppercase;
+} */
+
+/* #blog-desc, p{
+    color: rgb(0, 94, 255);
+}
+
+p {
+    text-transform: uppercase;
+    color: red;
+}
+
+header h1{
+    font-family: sans-serif;
+} */
+
+article li{
+    color: blue;
+}
+
+li {
+    text-transform: uppercase;
+    color: red;
+}
+
+#first{
+    color: green;
+}
